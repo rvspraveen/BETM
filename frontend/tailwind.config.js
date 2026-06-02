@@ -1,0 +1,52 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{ts,tsx}'],
+  plugins: [require('daisyui')],
+  daisyui: {
+    themes: [
+      {
+        'copilot-dark': {
+          'color-scheme': 'dark',
+          'primary':          '#3b82f6',
+          'primary-content':  '#ffffff',
+          'secondary':        '#8b5cf6',
+          'secondary-content':'#ffffff',
+          'accent':           '#06b6d4',
+          'accent-content':   '#ffffff',
+          'neutral':          '#1e2433',
+          'neutral-content':  '#a0aec0',
+          'base-100':         '#0f1117',
+          'base-200':         '#161b27',
+          'base-300':         '#1e2433',
+          'base-content':     '#e2e8f0',
+          'info':             '#38bdf8',
+          'success':          '#34d399',
+          'warning':          '#fbbf24',
+          'error':            '#f87171',
+        },
+      },
+      {
+        'copilot-light': {
+          'color-scheme': 'light',
+          'primary':          '#2563eb',
+          'primary-content':  '#ffffff',
+          'secondary':        '#7c3aed',
+          'secondary-content':'#ffffff',
+          'accent':           '#0891b2',
+          'accent-content':   '#ffffff',
+          'neutral':          '#e2e8f0',
+          'neutral-content':  '#334155',
+          'base-100':         '#f8fafc',
+          'base-200':         '#f1f5f9',
+          'base-300':         '#e2e8f0',
+          'base-content':     '#0f172a',
+          'info':             '#0284c7',
+          'success':          '#059669',
+          'warning':          '#d97706',
+          'error':            '#dc2626',
+        },
+      },
+    ],
+    darkTheme: 'copilot-dark',
+  },
+};

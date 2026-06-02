@@ -1,0 +1,161 @@
+unit_id,unit_name,start_time,end_time,status,zone
+OAKGR_CC2,Oak Grove CC2,2025-01-01,2025-01-05,Planned,South
+BRSES_UNIT1,Brazos Unit 1,2025-01-13,2025-01-17,Forced Outage,West
+SANDOW_4,Sandow Unit 4,2025-01-25,2025-01-29,Forced Outage,South
+FPL_345,FPL Unit,2025-02-06,2025-02-10,Planned,West
+OAKGR_CC2,Oak Grove CC2,2025-02-18,2025-02-22,Planned,South
+BRSES_UNIT1,Brazos Unit 1,2025-03-02,2025-03-06,Planned,North
+SANDOW_4,Sandow Unit 4,2025-03-14,2025-03-18,Forced Outage,North
+FPL_345,FPL Unit,2025-03-26,2025-03-30,Planned,South
+OAKGR_CC2,Oak Grove CC2,2025-04-07,2025-04-11,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2025-04-19,2025-04-23,Forced Outage,West
+SANDOW_4,Sandow Unit 4,2025-05-01,2025-05-05,Planned,South
+FPL_345,FPL Unit,2025-05-13,2025-05-17,Available,South
+OAKGR_CC2,Oak Grove CC2,2025-05-25,2025-05-29,Forced Outage,West
+BRSES_UNIT1,Brazos Unit 1,2025-06-06,2025-06-10,Planned,North
+SANDOW_4,Sandow Unit 4,2025-06-18,2025-06-22,Available,North
+FPL_345,FPL Unit,2025-06-30,2025-07-04,Planned,North
+OAKGR_CC2,Oak Grove CC2,2025-07-12,2025-07-16,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2025-07-24,2025-07-28,Forced Outage,West
+SANDOW_4,Sandow Unit 4,2025-08-05,2025-08-09,Forced Outage,North
+FPL_345,FPL Unit,2025-08-17,2025-08-21,Forced Outage,Houston
+OAKGR_CC2,Oak Grove CC2,2025-08-29,2025-09-02,Planned,North
+BRSES_UNIT1,Brazos Unit 1,2025-09-10,2025-09-14,Forced Outage,Houston
+SANDOW_4,Sandow Unit 4,2025-09-22,2025-09-26,Available,Houston
+FPL_345,FPL Unit,2025-10-04,2025-10-08,Planned,North
+OAKGR_CC2,Oak Grove CC2,2025-10-16,2025-10-20,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2025-10-28,2025-11-01,Available,West
+SANDOW_4,Sandow Unit 4,2025-11-09,2025-11-13,Available,West
+FPL_345,FPL Unit,2025-11-21,2025-11-25,Planned,North
+OAKGR_CC2,Oak Grove CC2,2025-12-03,2025-12-07,Available,South
+BRSES_UNIT1,Brazos Unit 1,2025-12-15,2025-12-19,Available,Houston
+SANDOW_4,Sandow Unit 4,2025-12-27,2025-12-31,Forced Outage,South
+FPL_345,FPL Unit,2026-01-08,2026-01-12,Planned,North
+OAKGR_CC2,Oak Grove CC2,2026-01-20,2026-01-24,Forced Outage,West
+BRSES_UNIT1,Brazos Unit 1,2026-02-01,2026-02-05,Available,North
+SANDOW_4,Sandow Unit 4,2026-02-13,2026-02-17,Available,North
+FPL_345,FPL Unit,2026-02-25,2026-03-01,Planned,Houston
+OAKGR_CC2,Oak Grove CC2,2026-03-09,2026-03-13,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2026-03-21,2026-03-25,Planned,South
+SANDOW_4,Sandow Unit 4,2026-04-02,2026-04-06,Available,South
+FPL_345,FPL Unit,2026-04-14,2026-04-18,Available,North
+OAKGR_CC2,Oak Grove CC2,2026-04-26,2026-04-30,Forced Outage,Houston
+BRSES_UNIT1,Brazos Unit 1,2026-05-08,2026-05-12,Available,North
+SANDOW_4,Sandow Unit 4,2026-05-20,2026-05-24,Forced Outage,Houston
+FPL_345,FPL Unit,2026-06-01,2026-06-05,Forced Outage,West
+OAKGR_CC2,Oak Grove CC2,2026-06-13,2026-06-17,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2026-06-25,2026-06-29,Forced Outage,South
+SANDOW_4,Sandow Unit 4,2026-07-07,2026-07-11,Planned,North
+FPL_345,FPL Unit,2026-07-19,2026-07-23,Forced Outage,Houston
+OAKGR_CC2,Oak Grove CC2,2026-07-31,2026-08-04,Planned,South
+BRSES_UNIT1,Brazos Unit 1,2026-08-12,2026-08-16,Forced Outage,South
+SANDOW_4,Sandow Unit 4,2026-08-24,2026-08-28,Forced Outage,North
+FPL_345,FPL Unit,2026-09-05,2026-09-09,Forced Outage,South
+OAKGR_CC2,Oak Grove CC2,2026-09-17,2026-09-21,Available,North
+BRSES_UNIT1,Brazos Unit 1,2026-09-29,2026-10-03,Available,North
+SANDOW_4,Sandow Unit 4,2026-10-11,2026-10-15,Available,Houston
+FPL_345,FPL Unit,2026-10-23,2026-10-27,Available,West
+OAKGR_CC2,Oak Grove CC2,2026-11-04,2026-11-08,Planned,Houston
+BRSES_UNIT1,Brazos Unit 1,2026-11-16,2026-11-20,Forced Outage,South
+SANDOW_4,Sandow Unit 4,2026-11-28,2026-12-02,Available,West
+FPL_345,FPL Unit,2026-12-10,2026-12-14,Forced Outage,South
+OAKGR_CC2,Oak Grove CC2,2026-12-22,2026-12-26,Available,West
+BRSES_UNIT1,Brazos Unit 1,2027-01-03,2027-01-07,Planned,North
+SANDOW_4,Sandow Unit 4,2027-01-15,2027-01-19,Forced Outage,South
+FPL_345,FPL Unit,2027-01-27,2027-01-31,Planned,West
+OAKGR_CC2,Oak Grove CC2,2027-02-08,2027-02-12,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2027-02-20,2027-02-24,Forced Outage,North
+SANDOW_4,Sandow Unit 4,2027-03-04,2027-03-08,Available,North
+FPL_345,FPL Unit,2027-03-16,2027-03-20,Available,South
+OAKGR_CC2,Oak Grove CC2,2027-03-28,2027-04-01,Planned,South
+BRSES_UNIT1,Brazos Unit 1,2027-04-09,2027-04-13,Planned,West
+SANDOW_4,Sandow Unit 4,2027-04-21,2027-04-25,Forced Outage,North
+FPL_345,FPL Unit,2027-05-03,2027-05-07,Available,North
+OAKGR_CC2,Oak Grove CC2,2027-05-15,2027-05-19,Forced Outage,South
+BRSES_UNIT1,Brazos Unit 1,2027-05-27,2027-05-31,Forced Outage,North
+SANDOW_4,Sandow Unit 4,2027-06-08,2027-06-12,Available,Houston
+FPL_345,FPL Unit,2027-06-20,2027-06-24,Planned,West
+OAKGR_CC2,Oak Grove CC2,2027-07-02,2027-07-06,Forced Outage,North
+BRSES_UNIT1,Brazos Unit 1,2027-07-14,2027-07-18,Forced Outage,North
+SANDOW_4,Sandow Unit 4,2027-07-26,2027-07-30,Forced Outage,North
+FPL_345,FPL Unit,2027-08-07,2027-08-11,Available,West
+OAKGR_CC2,Oak Grove CC2,2027-08-19,2027-08-23,Forced Outage,South
+BRSES_UNIT1,Brazos Unit 1,2027-08-31,2027-09-04,Planned,Houston
+SANDOW_4,Sandow Unit 4,2027-09-12,2027-09-16,Planned,South
+FPL_345,FPL Unit,2027-09-24,2027-09-28,Available,North
+OAKGR_CC2,Oak Grove CC2,2027-10-06,2027-10-10,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2027-10-18,2027-10-22,Available,North
+SANDOW_4,Sandow Unit 4,2027-10-30,2027-11-03,Available,West
+FPL_345,FPL Unit,2027-11-11,2027-11-15,Planned,West
+OAKGR_CC2,Oak Grove CC2,2027-11-23,2027-11-27,Available,West
+BRSES_UNIT1,Brazos Unit 1,2027-12-05,2027-12-09,Forced Outage,North
+SANDOW_4,Sandow Unit 4,2027-12-17,2027-12-21,Planned,South
+FPL_345,FPL Unit,2027-12-29,2028-01-02,Available,South
+OAKGR_CC2,Oak Grove CC2,2028-01-10,2028-01-14,Available,North
+BRSES_UNIT1,Brazos Unit 1,2028-01-22,2028-01-26,Forced Outage,North
+SANDOW_4,Sandow Unit 4,2028-02-03,2028-02-07,Planned,Houston
+FPL_345,FPL Unit,2028-02-15,2028-02-19,Planned,West
+OAKGR_CC2,Oak Grove CC2,2028-02-27,2028-03-02,Forced Outage,South
+BRSES_UNIT1,Brazos Unit 1,2028-03-10,2028-03-14,Forced Outage,South
+SANDOW_4,Sandow Unit 4,2028-03-22,2028-03-26,Available,Houston
+FPL_345,FPL Unit,2028-04-03,2028-04-07,Forced Outage,Houston
+OAKGR_CC2,Oak Grove CC2,2028-04-15,2028-04-19,Forced Outage,North
+BRSES_UNIT1,Brazos Unit 1,2028-04-27,2028-05-01,Forced Outage,North
+SANDOW_4,Sandow Unit 4,2028-05-09,2028-05-13,Planned,North
+FPL_345,FPL Unit,2028-05-21,2028-05-25,Planned,West
+OAKGR_CC2,Oak Grove CC2,2028-06-02,2028-06-06,Forced Outage,South
+BRSES_UNIT1,Brazos Unit 1,2028-06-14,2028-06-18,Forced Outage,Houston
+SANDOW_4,Sandow Unit 4,2028-06-26,2028-06-30,Planned,South
+FPL_345,FPL Unit,2028-07-08,2028-07-12,Forced Outage,North
+OAKGR_CC2,Oak Grove CC2,2028-07-20,2028-07-24,Forced Outage,West
+BRSES_UNIT1,Brazos Unit 1,2028-08-01,2028-08-05,Planned,South
+SANDOW_4,Sandow Unit 4,2028-08-13,2028-08-17,Forced Outage,North
+FPL_345,FPL Unit,2028-08-25,2028-08-29,Forced Outage,Houston
+OAKGR_CC2,Oak Grove CC2,2028-09-06,2028-09-10,Planned,North
+BRSES_UNIT1,Brazos Unit 1,2028-09-18,2028-09-22,Available,North
+SANDOW_4,Sandow Unit 4,2028-09-30,2028-10-04,Forced Outage,South
+FPL_345,FPL Unit,2028-10-12,2028-10-16,Forced Outage,West
+OAKGR_CC2,Oak Grove CC2,2028-10-24,2028-10-28,Forced Outage,Houston
+BRSES_UNIT1,Brazos Unit 1,2028-11-05,2028-11-09,Available,Houston
+SANDOW_4,Sandow Unit 4,2028-11-17,2028-11-21,Planned,Houston
+FPL_345,FPL Unit,2028-11-29,2028-12-03,Planned,West
+OAKGR_CC2,Oak Grove CC2,2028-12-11,2028-12-15,Planned,Houston
+BRSES_UNIT1,Brazos Unit 1,2028-12-23,2028-12-27,Planned,North
+SANDOW_4,Sandow Unit 4,2029-01-04,2029-01-08,Forced Outage,West
+FPL_345,FPL Unit,2029-01-16,2029-01-20,Available,Houston
+OAKGR_CC2,Oak Grove CC2,2029-01-28,2029-02-01,Available,West
+BRSES_UNIT1,Brazos Unit 1,2029-02-09,2029-02-13,Planned,North
+SANDOW_4,Sandow Unit 4,2029-02-21,2029-02-25,Planned,South
+FPL_345,FPL Unit,2029-03-05,2029-03-09,Forced Outage,West
+OAKGR_CC2,Oak Grove CC2,2029-03-17,2029-03-21,Planned,South
+BRSES_UNIT1,Brazos Unit 1,2029-03-29,2029-04-02,Planned,West
+SANDOW_4,Sandow Unit 4,2029-04-10,2029-04-14,Planned,North
+FPL_345,FPL Unit,2029-04-22,2029-04-26,Planned,South
+OAKGR_CC2,Oak Grove CC2,2029-05-04,2029-05-08,Available,Houston
+BRSES_UNIT1,Brazos Unit 1,2029-05-16,2029-05-20,Planned,Houston
+SANDOW_4,Sandow Unit 4,2029-05-28,2029-06-01,Planned,South
+FPL_345,FPL Unit,2029-06-09,2029-06-13,Forced Outage,West
+OAKGR_CC2,Oak Grove CC2,2029-06-21,2029-06-25,Planned,South
+BRSES_UNIT1,Brazos Unit 1,2029-07-03,2029-07-07,Planned,Houston
+SANDOW_4,Sandow Unit 4,2029-07-15,2029-07-19,Forced Outage,West
+FPL_345,FPL Unit,2029-07-27,2029-07-31,Forced Outage,South
+OAKGR_CC2,Oak Grove CC2,2029-08-08,2029-08-12,Planned,West
+BRSES_UNIT1,Brazos Unit 1,2029-08-20,2029-08-24,Forced Outage,West
+SANDOW_4,Sandow Unit 4,2029-09-01,2029-09-05,Forced Outage,North
+FPL_345,FPL Unit,2029-09-13,2029-09-17,Planned,North
+OAKGR_CC2,Oak Grove CC2,2029-09-25,2029-09-29,Available,West
+BRSES_UNIT1,Brazos Unit 1,2029-10-07,2029-10-11,Forced Outage,Houston
+SANDOW_4,Sandow Unit 4,2029-10-19,2029-10-23,Planned,Houston
+FPL_345,FPL Unit,2029-10-31,2029-11-04,Forced Outage,West
+OAKGR_CC2,Oak Grove CC2,2029-11-12,2029-11-16,Available,West
+BRSES_UNIT1,Brazos Unit 1,2029-11-24,2029-11-28,Available,North
+SANDOW_4,Sandow Unit 4,2029-12-06,2029-12-10,Planned,Houston
+FPL_345,FPL Unit,2029-12-18,2029-12-22,Available,North
+OAKGR_CC2,Oak Grove CC2,2029-12-30,2030-01-03,Planned,Houston
+BRSES_UNIT1,Brazos Unit 1,2030-01-11,2030-01-15,Planned,Houston
+SANDOW_4,Sandow Unit 4,2030-01-23,2030-01-27,Forced Outage,South
+FPL_345,FPL Unit,2030-02-04,2030-02-08,Planned,West
+OAKGR_CC2,Oak Grove CC2,2030-02-16,2030-02-20,Forced Outage,South
+BRSES_UNIT1,Brazos Unit 1,2030-02-28,2030-03-04,Forced Outage,Houston
+SANDOW_4,Sandow Unit 4,2030-03-12,2030-03-16,Forced Outage,North
+FPL_345,FPL Unit,2030-03-24,2030-03-28,Forced Outage,West

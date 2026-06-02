@@ -1,0 +1,4 @@
+event_start,event_end,constraint_id,affected_nodes,max_shadow_price,total_congestion_rent,related_outage_id,description
+2024-06-15T13:00:00,2024-06-15T17:00:00,SABINE_345,"[""HB_HOUSTON"",""LZ_HOUSTON"",""BUS_SABINE"",""BUS_BRAZOS""]",310.5,245000.0,OUT-2024-1021,"Sabine-Jasper 345kV line emergency outage reduced transfer capacity from East Texas into Houston. Brazos Valley Unit 3 forced outage coincided, reducing local supply. RT prices reached $850/MWh at HB_HOUSTON."
+2024-07-04T14:00:00,2024-07-04T22:00:00,TRAVIS_345,"[""HB_NORTH"",""LZ_NORTH"",""BUS_SABINE""]",243.0,88500.0,OUT-2024-1105,July 4th summer peak load exceeded N-1 security limit on Travis County 345kV bus. ERCOT deployed emergency response. Shadow price reached $243/MWh for 8 hours.
+2024-05-22T09:00:00,2024-05-22T13:00:00,PANHANDLE_230,"[""HB_WEST"",""LZ_WEST""]",87.0,24000.0,,Wind ramp in Panhandle exceeded 230kV export capability. ERCOT ordered wind curtailment to manage constraint.

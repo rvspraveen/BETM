@@ -1,0 +1,7 @@
+node,hub,region,book,asset_type
+HB_NORTH,North Hub,North,North,Hub
+HB_WEST,West Hub,West,West,Hub
+HB_HOUSTON,Houston Hub,Houston,Houston,Hub
+HB_SOUTH,South Hub,South,South,Hub
+CORYCELL_138,North Hub,North,North,Transmission
+WOODLANDS_69,West Hub,West,West,Load

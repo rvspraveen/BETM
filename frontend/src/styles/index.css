@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Scrollbars ─────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: oklch(var(--bc)/0.15); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: oklch(var(--bc)/0.3); }
+
+/* ── Animations ─────────────────────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.3; }
+}
+
+.fade-up   { animation: fadeUp 0.22s ease both; }
+
+/* ── Thinking trace ──────────────────────────────────────────── */
+.thinking-trace {
+  @apply text-xs font-mono border-l-2 border-base-content/10 pl-3 space-y-1;
+}
+
+/* ── Chip pills ─────────────────────────────────────────────── */
+.chip {
+  @apply inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium
+         bg-base-300 text-base-content/70 border border-base-content/10
+         cursor-pointer select-none transition-all duration-150
+         hover:border-primary/60 hover:text-primary hover:bg-primary/10;
+}
+
+/* ── Capability chip variants ───────────────────────────────── */
+.chip-doc     { @apply hover:border-blue-400/60   hover:text-blue-400   hover:bg-blue-400/10; }
+.chip-analyt  { @apply hover:border-emerald-400/60 hover:text-emerald-400 hover:bg-emerald-400/10; }
+.chip-hybrid  { @apply hover:border-violet-400/60  hover:text-violet-400  hover:bg-violet-400/10; }
+.chip-uncert  { @apply hover:border-amber-400/60   hover:text-amber-400   hover:bg-amber-400/10; }
+
+/* ── Source pill ────────────────────────────────────────────── */
+.source-pill {
+  @apply inline-flex items-center gap-1 px-2 py-0.5 rounded text-xs
+         bg-base-300 text-base-content/60 border border-base-content/10;
+}
+
+/* ── Typing indicator dots ──────────────────────────────────── */
+.dot-1 { animation: pulse-dot 1.2s ease infinite 0s; }
+.dot-2 { animation: pulse-dot 1.2s ease infinite 0.2s; }
+.dot-3 { animation: pulse-dot 1.2s ease infinite 0.4s; }
+
+/* ── Query cap panel ────────────────────────────────────────── */
+.qcap-tab-active { @apply border-b-2; }

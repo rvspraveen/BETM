@@ -1,0 +1,12 @@
+canonical_id,alias,alias_type,source,is_active,notes
+HB_HOUSTON,HOUSTON_HUB,market,ERCOT Settlement,True,
+HB_HOUSTON,HST_HUB,internal,Trading System,True,
+HB_NORTH,LZ_NORTH,market,Legacy ERCOT,False,Deprecated since 2022 nodal settlement
+HB_NORTH,NORTH_HUB,internal,Risk System,True,
+HB_WEST,WEST_HUB,internal,Trading System,True,
+HB_WEST,WTX_HUB,doc_reference,Market Notice MN-2023-441,True,
+LZ_HOUSTON,HST_LZ,internal,Trading System,True,
+LZ_HOUSTON,HOUSTON_LOAD,doc_reference,Settlement Protocol v4.2,True,
+BUS_SABINE,SABINE_345,internal,Constraint Monitor,True,
+BUS_BRAZOS,BRAZOS_BUS,internal,Trading System,True,
+BUS_BRAZOS,BV_BUS_3,doc_reference,Outage Report OUT-2024-0892,True,Maps to Brazos Valley Unit 3 injection bus

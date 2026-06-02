@@ -1,0 +1,16 @@
+.git
+.gitignore
+README.md
+AI_Architect_Energy_Trading_Take_Home_Assignment.md
+frontend/node_modules/
+frontend/dist/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.venv/
+.venv/
+venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.DS_Store
